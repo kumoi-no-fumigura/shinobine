@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shinobine",
  "yomi": "しのびねものがたり",
  "category": "物語",
- "description": null,
+ "description": {
+  "kind": "物語（擬古物語）",
+  "era": "中世",
+  "author": "未詳",
+  "desc": "内大臣家の四位少将と姫君との忍ぶ恋を描く擬古物語。小倉の山里で琴の音に導かれて出会う場面から始まる。伝わる本は後の改作本とされる。"
+ },
  "editions": [
   {
    "pid": "936506",
